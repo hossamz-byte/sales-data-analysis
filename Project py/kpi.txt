@@ -1,0 +1,39 @@
+"Kpi Summary"
+
+"General KPI"
+
+Total Sales: 1122111.875
+
+Total Orders: 488
+
+Total Profit: 393700.5
+
+Average Order Value: 2299.40966796875
+
+Overall Profit Margin %: 35.085670471191406
+
+Most Common Ship Mode: Standard Class
+
+"SHIPPING KPI"
+
+Average Shipping Duration (days): 4.009930486593843
+
+Median Shipping Duration (days): 4.0
+
+Fastest Shipping Duration (days): 0
+
+Slowest Shipping Duration (days): 7
+
+Avg Shipping Duration by Ship Mode: Ship Mode
+First Class       2.210811
+Same Day          0.000000
+Second Class      3.193548
+Standard Class    5.010239
+Name: Shipping Days, dtype: float64
+
+Avg Shipping Duration by Region: Region
+Central    4.169421
+East       3.785942
+South      4.078014
+West       4.080386
+Name: Shipping Days, dtype: float64
